@@ -18,6 +18,9 @@ permissions:
   ayw.command.prout:
     description: 'Prout !'
     default: true
+  ayw.command.dandan:
+    description: 'Dandan'
+    default: true
   ayw.command.teams:
     description: 'Teams'
     default: true
