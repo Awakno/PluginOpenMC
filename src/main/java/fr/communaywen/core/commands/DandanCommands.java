@@ -29,7 +29,7 @@ public final class DandanCommands {
 
         final Vector currentVelocity = player.getVelocity();
         currentVelocity.setY(0.55d);
-        String broadcastMessage = "§f§l Dandan a pété ça pue !!! §2 Dégueu"
+        String broadcastMessage = "§f§l Dandan a pété ça pue !!! §2 Dégueu";
         Bukkit.broadcastMesssage(broadcastMessage);
     }
 }
